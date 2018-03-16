@@ -1,0 +1,7 @@
+\beamer@sectionintoc {1}{Motivation}{3}{0}{1}
+\beamer@sectionintoc {2}{Gaussian Polynomial Models }{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{Tracking FIlaments at Sub-pixel accuracy}{5}{0}{2}
+\beamer@sectionintoc {3}{Ellipse fitting using Ransac}{19}{0}{3}
+\beamer@subsectionintoc {3}{1}{Using Random Forest Classifier for full automation}{19}{0}{3}
+\beamer@sectionintoc {4}{Want Perfect Segmentation?}{27}{0}{4}
+\beamer@subsectionintoc {4}{1}{RAF based tool: Ilastik}{27}{0}{4}
